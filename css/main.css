@@ -2429,9 +2429,9 @@ body {
   .btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
     color: #3ea1ec; }
 
-.btn-facebook {
+.btn-orcid {
   color: #3b5998; }
-  .btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active {
+  .btn-orcid:hover, .btn-orcid:focus, .btn-orcid:active {
     color: #344e86; }
 
 .btn-google {
@@ -5262,7 +5262,7 @@ Created using IcoMoon - icomoon.io
 
 /* Footer */
 /* Social button style */
-.cc-facebook:hover i {
+.cc-orcid:hover i {
   color: #3b5998; }
 
 .cc-twitter:hover i {
