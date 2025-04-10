@@ -5282,3 +5282,10 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+/*Image centered
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
